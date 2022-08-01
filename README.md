@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/phpc91">
+<a href="https://phpc91-github-readme-stats.vercel.app">
   <img align="center" src="https://phpc91-github-readme-stats.vercel.app/api?username=phpc91&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="phpc91 github stats" />
 </a>
-<a href="https://github.com/phpc91" style="margin-left: 10px">
-  <img align="center" src="https://phpc91-github-readme-stats.vercel.app/api/top-langs/?username=phpc91&theme=merko&layout=compact" alt="phpc91 top languages used" style="height: 195px;" />
+<a href="https://phpc91-github-readme-stats.vercel.app" style="margin-left: 10px">
+  <img align="center" src="https://phpc91-github-readme-stats.vercel.app/api/top-langs/?username=phpc91&theme=merko&layout=compact&hide=tsql,php" alt="phpc91 top languages used" style="height: 195px;" />
 </a>
