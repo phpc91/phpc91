@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phpc91&show_icons=true&theme=merko&include_all_commits=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phpc91&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **phpc91/phpc91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/phpc91">
+  <img align="center" src="https://phpc91-github-readme-stats.vercel.app/api?username=phpc91&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="phpc91 github stats" />
+</a>
+<a href="https://github.com/phpc91" style="margin-left: 10px">
+  <img align="center" src="https://phpc91-github-readme-stats.vercel.app/api/top-langs/?username=phpc91&theme=merko&layout=compact" alt="phpc91 top languages used" style="height: 195px;" />
+</a>
